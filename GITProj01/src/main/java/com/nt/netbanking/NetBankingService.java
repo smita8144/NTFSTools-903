@@ -27,4 +27,7 @@ public class NetBankingService {
 		return "transfering"+amount+"from"+srcAcno+" to "+destAcno;
 
 	}
+	public void abc() {
+		System.out.println("abc");
+	}
 }
