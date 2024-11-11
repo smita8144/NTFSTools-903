@@ -15,4 +15,6 @@ public class NetBankingService {
 	public String deposite(long accno,double amount) {
 		return amount+"is deposited in to the account number::"+accno;
 	}
+	
+	//dafafag
 }
